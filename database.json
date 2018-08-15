@@ -1,0 +1,452 @@
+{
+  "films": [
+    {
+      "uuid": "f1",
+      "name": "Назад в будущее",
+      "type": "фантастика, комедия, приключения",
+      "year": "1985",
+      "rate": 8.625,
+      "length": "1:56",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/nazad-v-budushhee-1985-476/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_476.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f2",
+      "name": "Назад в будущее 2",
+      "type": "фантастика, комедия, приключения, боевик",
+      "year": "1989",
+      "rate": 8.287,
+      "length": "1:48",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/nazad-v-budushhee-2-1989-5502/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_5502.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f3",
+      "name": "Назад в будущее 3",
+      "type": "фантастика, комедия, приключения, вестерн",
+      "year": "1990",
+      "rate": 8.169,
+      "length": "1:58",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/nazad-v-budushhee-3-1990-7103/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_7103.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f4",
+      "name": "Шерлок Холмс",
+      "type": "боевик, триллер, драма, комедия, криминал, детектив, приключения",
+      "year": "2009",
+      "rate": 8.078,
+      "length": "2:08",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/sherlok-kholms-2009-420923/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_420923.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f5",
+      "name": "Шерлок Холмс: Игра теней",
+      "type": "боевик, триллер, криминал, детектив, приключения",
+      "year": "2011",
+      "rate": 7.853,
+      "length": "2:08",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/sherlok-kholms-igra-teney-2011-474953/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_474953.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f6",
+      "name": "Зодиак",
+      "type": "триллер, драма, криминал, детектив, история",
+      "year": "2007",
+      "rate": 7.336,
+      "length": "2:38",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/zodiak-2007-102838/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_102838.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f7",
+      "name": "Чёрный лебедь",
+      "type": "триллер, драма",
+      "year": "2010",
+      "rate": 7.739,
+      "length": "1:43",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/chyornyy-lebed-2010-278273/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_278273.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f8",
+      "name": "Леон",
+      "type": "триллер, драма, криминал",
+      "year": "1994",
+      "rate": 8.683,
+      "length": "2:13",
+      "country": "Франция",
+      "link": "https://www.kinopoisk.ru/film/leon-1994-389/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_389.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f9",
+      "name": "«V» значит Вендетта",
+      "type": "фантастика, боевик, триллер, драма",
+      "year": "2006",
+      "rate": 7.830,
+      "length": "2:12",
+      "country": "Великобритания, Германия",
+      "link": "https://www.kinopoisk.ru/film/v-znachit-vendetta-2006-86208/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_86208.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f10",
+      "name": "Эйс Вентура: Розыск домашних животных",
+      "type": "комедия, детектив, приключения",
+      "year": "1993",
+      "rate": 7.763,
+      "length": "1:26",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/eys-ventura-rozysk-domashnikh-zhivotnykh-1993-2868/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_2868.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f11",
+      "name": "Тупой и еще тупее",
+      "type": "комедия",
+      "year": "1994",
+      "rate": 7.264,
+      "length": "1:47",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/tupoy-i-eshche-tupee-1994-5185/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_5185.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f12",
+      "name": "Тупой и еще тупее 2",
+      "type": "комедия",
+      "year": "2014",
+      "rate": 5.705,
+      "length": "1:48",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/tupoy-i-eshhe-tupee-2-2014-645087/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_645087.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f13",
+      "name": "Полночь в Париже",
+      "type": "фэнтези, мелодрама, комедия",
+      "year": "2011",
+      "rate": 7.732,
+      "length": "1:34",
+      "country": "США, Испания",
+      "link": "https://www.kinopoisk.ru/film/polnoch-v-parizhe-2011-504465/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_504465.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f14",
+      "name": "Господин Никто",
+      "type": "фантастика, фэнтези, драма, мелодрама",
+      "year": "2009",
+      "rate": 7.903,
+      "length": "2:18",
+      "country": "Бельгия, Германия, Канада, Франция, США, Великобритания",
+      "link": "https://www.kinopoisk.ru/film/gospodin-nikto-2009-232785/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_232785.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f15",
+      "name": "Учитель на замену",
+      "type": "драма",
+      "year": "2011",
+      "rate": 7.783,
+      "length": "1:38",
+      "country": "Бельгия, Германия, Канада, Франция, США, Великобритания",
+      "link": "https://www.kinopoisk.ru/film/uchitel-na-zamenu-2011-535337/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_535337.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f16",
+      "name": "Отель «Гранд Будапешт»",
+      "type": "комедия, детектив, приключения, криминал",
+      "year": "2014",
+      "rate": 7.861,
+      "length": "1:40",
+      "country": "США, Германия",
+      "link": "https://www.kinopoisk.ru/film/otel-grand-budapesht-2014-683999/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_683999.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f17",
+      "name": "Четыре комнаты",
+      "type": "комедия",
+      "year": "1995",
+      "rate": 7.750,
+      "length": "1:38",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/chetyre-komnaty-1995-4250/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_4250.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f18",
+      "name": "Трудности перевода",
+      "type": "драма, мелодрама, комедия",
+      "year": "2003",
+      "rate": 7.210,
+      "length": "1:42",
+      "country": "США, Япония",
+      "link": "https://www.kinopoisk.ru/film/trudnosti-perevoda-2003-5930/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_5930.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f19",
+      "name": "Реальные упыри",
+      "type": "комедия, ужасы",
+      "year": "2014",
+      "rate": 7.378,
+      "length": "1:25",
+      "country": "Новая Зеландия, США",
+      "link": "https://www.kinopoisk.ru/film/realnye-upyri-2014-818981/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_818981.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f20",
+      "name": "Человек кусает собаку",
+      "type": "криминал, драма, комедия, ужасы",
+      "year": "1992",
+      "rate": 7.196,
+      "length": "1:35",
+      "country": "Бельгия",
+      "link": "https://www.kinopoisk.ru/film/chelovek-kusaet-sobaku-1992-63892/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_63892.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f21",
+      "name": "Зомби по имени Шон",
+      "type": "ужасы, комедия",
+      "year": "2004",
+      "rate": 7.397,
+      "length": "1:40",
+      "country": "Великобритания, Франция",
+      "link": "https://www.kinopoisk.ru/film/zombi-po-imeni-shon-2004-64021/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_64021.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f22",
+      "name": "Большой Лебовски",
+      "type": "комедия, криминал",
+      "year": "1998",
+      "rate": 7.769,
+      "length": "1:57",
+      "country": "США, Великобритания",
+      "link": "https://www.kinopoisk.ru/film/bolshoy-lebovski-1998-555/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_555.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f23",
+      "name": "Залечь на дно в Брюгге",
+      "type": "триллер, драма, комедия, криминал",
+      "year": "2007",
+      "rate": 7.733,
+      "length": "1:42",
+      "country": "США, Великобритания",
+      "link": "https://www.kinopoisk.ru/film/zalech-na-dno-v-bryugge-2007-276295/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_276295.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f24",
+      "name": "Бешеные псы",
+      "type": "триллер, драма, криминал",
+      "year": "1991",
+      "rate": 8.119,
+      "length": "1:40",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/beshenye-psy-1991-394/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_394.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f25",
+      "name": "Унесённые призраками",
+      "type": "аниме, мультфильм, фэнтези, приключения",
+      "year": "2001",
+      "rate": 8.422,
+      "length": "2:05",
+      "country": "Япония",
+      "link": "https://www.kinopoisk.ru/film/unesyonnye-prizrakami-2001-370/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_370.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f26",
+      "name": "Ведьмина служба доставки",
+      "type": "аниме, мультфильм, фэнтези, комедия, приключения",
+      "year": "1989",
+      "rate": 8.043,
+      "length": "1:43",
+      "country": "Япония",
+      "link": "https://www.kinopoisk.ru/film/vedmina-sluzhba-dostavki-1989-2428/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_2428.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "f27",
+      "name": "Порко Россо",
+      "type": "аниме, мультфильм, фэнтези, мелодрама, приключения",
+      "year": "1992",
+      "rate": 7.749,
+      "length": "1:34",
+      "country": "Япония",
+      "link": "https://www.kinopoisk.ru/film/porko-rosso-1992-8229/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_8229.jpg",
+      "cinemas": ["c1", "c2"]
+    }
+  ],
+
+  "nights": [
+    {
+      "uuid": "n2",
+      "name": "02пт-'Назад в будущее'",
+      "films": ["f1", "f2", "f3"],
+      "end": "06:10",
+      "ticketsmsk":"https://5565d1be9cb5380d2fc8655e.ticketscloud.org/",
+      "ticketsspb":"https://567820359cb5385547b87659.ticketscloud.org/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_476.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "n3",
+      "name": "03сб-Роберт Дауни мл.",
+      "films": ["f4", "f5", "f6"],
+      "end": "07:20",
+      "ticketsmsk":"https://5565d1be9cb5380d2fc8655e.ticketscloud.org/",
+      "ticketsspb":"https://567820359cb5385547b87659.ticketscloud.org/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_420923.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "n9",
+      "name": "09пт-Натали Портман",
+      "films": ["f7", "f8", "f9"],
+      "end": "06:35",
+      "ticketsmsk":"https://5565d1be9cb5380d2fc8655e.ticketscloud.org/",
+      "ticketsspb":"https://567820359cb5385547b87659.ticketscloud.org/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_278273.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+    "uuid": "n10",
+    "name": "10сб-Джим Керри",
+    "films": ["f10, f11, f12"],
+      "end": "05:30",
+      "ticketsmsk":"https://5565d1be9cb5380d2fc8655e.ticketscloud.org/",
+      "ticketsspb":"https://567820359cb5385547b87659.ticketscloud.org/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_2868.jpg",
+      "cinemas": ["c1", "c2"]
+  },
+    {
+      "uuid": "n16",
+      "name": "16пт-Ночь глубокого кино",
+      "films": ["f13", "f14", "f15"],
+      "end": "05:55",
+      "ticketsmsk":"https://5565d1be9cb5380d2fc8655e.ticketscloud.org/",
+      "ticketsspb":"https://567820359cb5385547b87659.ticketscloud.org/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_504465.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "n17",
+      "name": "17сб-Ночь комедий об отелях",
+      "films": ["f16", "f17", "f18"],
+      "end": "05:25",
+      "ticketsmsk":"https://5565d1be9cb5380d2fc8655e.ticketscloud.org/",
+      "ticketsspb":"https://567820359cb5385547b87659.ticketscloud.org/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_683999.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "n22",
+      "name": "22чт-Ночь чёрного юмора",
+      "films": ["f19", "f20", "f21"],
+      "end": "05:10",
+      "ticketsmsk":"https://5565d1be9cb5380d2fc8655e.ticketscloud.org/",
+      "ticketsspb":"https://567820359cb5385547b87659.ticketscloud.org/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_818981.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "n23",
+      "name": "23пт-Ночь криминального кино",
+      "films": ["f22", "f23", "f24"],
+      "end": "05:45",
+      "ticketsmsk":"https://5565d1be9cb5380d2fc8655e.ticketscloud.org/",
+      "ticketsspb":"https://567820359cb5385547b87659.ticketscloud.org/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_555.jpg",
+      "cinemas": ["c1", "c2"]
+    },
+    {
+      "uuid": "n24",
+      "name": "24сб-Аниме Хаяо Миядзаки",
+      "films": ["f25", "f26", "f27"],
+      "end": "05:45",
+      "ticketsmsk":"https://5565d1be9cb5380d2fc8655e.ticketscloud.org/",
+      "ticketsspb":"https://567820359cb5385547b87659.ticketscloud.org/",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_370.jpg",
+      "cinemas": ["c1", "c2"]
+    }
+  ],
+
+  "cinemas": [
+    {
+      "uuid": "c1",
+      "name": "ЛХ-Москва",
+      "address": "г. Москва, ул. Большая Новодмитровская, д. 36, стр. 24",
+      "price": "550-800 руб.",
+      "tel": "+79261621766",
+      "tickets": "https://5565d1be9cb5380d2fc8655e.ticketscloud.org/",
+      "location": {
+        "latitude": 55.805159,
+        "longitude": 37.586287
+      },
+      "url": "http://www.lumierehall.ru/msk",
+      "nights": ["n2", "n3", "n9", "n10", "n16", "n17", "n22", "n23", "n24"]
+    },
+    {
+      "uuid": "c2",
+      "name": "ЛХ-Санкт-Петербург",
+      "address": "г. Санкт-Петербург, наб. Обводного канала, д.74A",
+      "price": "400-500 руб.",
+      "tel": "+79045555926",
+      "tickets": "https://567820359cb5385547b87659.ticketscloud.org/",
+      "location": {
+        "latitude": 59.910476,
+        "longitude": 30.328864
+      },
+      "url": "http://www.lumierehall.ru/spb",
+      "nights": ["n2", "n3", "n9", "n10", "n16", "n17", "n22", "n23", "n24"]
+    }
+  ]
+}

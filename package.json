@@ -1,0 +1,24 @@
+{
+  "name": "kn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "engines": {
+    "node": "6.10.3"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "geolib": "^2.0.24",
+    "lodash": "^4.17.4",
+    "mongoose": "^5.0.1",
+    "node-telegram-bot-api": "^0.30.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.3"
+  }
+}
